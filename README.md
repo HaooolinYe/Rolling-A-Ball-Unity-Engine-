@@ -17,10 +17,16 @@ Classic 3D game made using Unity Engine. The prototype of my game can be found i
 
 <h2> Description </h2>
 <p>
- The player will use <em>W</em>, <em>A</em>, <em>S</em> and <em>D</em> to control the movement of the ball, aka <em>BALL == PLAYER</em>.
+ The player will use <em>W</em>, <em>A</em>, <em>S</em> and <em>D</em> to control the movement of the ball in the map, aka <em>BALL == PLAYER</em>. To give a brief idea on how the map looks like, there's what you will see when you enter the game:
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/90864900/157111864-60f9ea70-f674-4f0b-8fc7-164f3d3d95b8.png" height=500 width=600>
+</p>
+
+  The goal of this game is to collect all the <em>yellow cubes</em>. There are in total 16 of them, suspending in the air while maitainting their self-rotation. As you may realize there is <em>a NoteBoard</em> on the top left called <strong><em>Count</em></strong>. The player will win the game when <em>Count</em> reaches tp 16.
  <br>
-  The goal of this game is to collect all the <em>yellow cubes</em>. There are in total 16 of them, suspending in the air while maitainting their self-rotation. The directions of their rotation are completely random for each game. They may look somewhat scary while rotating, but don't worry;) Rock the cubes and get yourself a <strong>victory</strong>!
+<i>(They may look somewhat scary while rotating, but don't worry;) Rock the cubes and get yourself a <strong>victory</strong>!)</i>
   <br>
-  Do be careful with <em>the void</em> in this game. That is, try not to fell into the empty space external to the map. Like in other games such as Minecraft, the player would get <em>eliminated</em> once they get too deep in the void. Luckily, in this game does not end after that. You will respawn at the middle of the map and start over. The points you get would be initialized to 0 and the cubes you have gained would get reset.
+  <br>
+  Do be careful with <em>the void</em> in this game. That is, try <strong>not</strong> to fell into <em>the empty space external to the map</em>. Like in other games such as Minecraft, the player would get <em>eliminated</em> once they get too deep in the void. <strong>Luckily</strong>, in this game <em>does not end</em> after that. You will <em>respawn </em>at the middle of the map and start over. The points you get would be initialized to 0 and the cubes you have gained will also get reset.
 </p>
   
