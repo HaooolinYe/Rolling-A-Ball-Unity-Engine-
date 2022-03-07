@@ -15,6 +15,27 @@ Classic 3D game made using Unity Engine. The prototype of my game can be found i
  </ul>
 </p>
 
+<h2> Getting The Engine</h2>
+<p>
+  Since this game was made using the <a href="https://store.unity.com/#plans-individual"><em>Unity engine</em></a>. You may want to download it to build the .exe game starter if you want to play this game or check out the details of this project from a graphical game editor.
+  <br>
+  For the Linux user, the installation may require you to first download a package or a file from this <a href="https://store.unity.com/#plans-individual"><em>link</em></a>, and a few lines of shell commands would be necessary to activate the installation with that package.
+  <br>
+  I am goning to use Ubuntu 20.24 as an example:
+  
+  ```
+  cd Downloads
+  ```
+  ```
+  chmod a+x UnityHub.AppImage  
+  ```
+  <i>↑ this is to make the file executable for anyone</i>
+  
+  ```
+  ./UnityHub.AppImage
+  ```
+
+  </p>
 <h2> Description </h2>
 <p>
  The player will use <em>W</em>, <em>A</em>, <em>S</em> and <em>D</em> to control the movement of the ball in the map, aka <em>BALL == PLAYER</em>. To give a brief idea on how the map looks like, there's what you will see when you enter the game:
