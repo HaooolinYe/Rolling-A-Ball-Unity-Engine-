@@ -19,6 +19,8 @@ Classic 3D game made using Unity Engine. The prototype of my game can be found i
 <p>
  The player will use <em>W</em>, <em>A</em>, <em>S</em> and <em>D</em> to control the movement of the ball, aka <em>BALL == PLAYER</em>.
  <br>
-  The goal of this game is to collect all the <em>yellow cubes</em>. There are in total 16 of them, suspending in the air while maitainting their self-roration. The directions of their rotation are completely random for each game. They may look scary while rotating, but don't worry;) Just rock the cubs and get yourself 
+  The goal of this game is to collect all the <em>yellow cubes</em>. There are in total 16 of them, suspending in the air while maitainting their self-rotation. The directions of their rotation are completely random for each game. They may look somewhat scary while rotating, but don't worry;) Rock the cubes and get yourself a <strong>victory</strong>!
+  <br>
+  Do be careful with <em>the void</em> in this game. That is, try not to fell into the empty space external to the map. Like in other games such as Minecraft, the player would get <em>eliminated</em> once they get too deep in the void. Luckily, in this game does not end after that. You will respawn at the middle of the map and start over. The points you get would be initialized to 0 and the cubes you have gained would get reset.
 </p>
   
